@@ -2,7 +2,7 @@
 layout: page
 title: People
 permalink: /people/
-weight: 3
+weight: 2
 
 ---
 <center><strong><font size="15"> Meet our team! </font></strong></center>
@@ -38,7 +38,7 @@ weight: 3
 
 <img src="/assets/mimi1.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
 <h3 style="margin-bottom:0;"> <a href="/people/pinzhang/"> CHEN Qiuru </a></h3>
-<h5 style="margin-top:0; margin-bottom:0;"> Principal Investigator </h5>
+<h5 style="margin-top:0; margin-bottom:0;"> Research Assistant </h5>
 <a href="mailto: qiuru.chen@polyu.edu.hk"><i class="fas fa-envelope-square fa-lg"></i></a>
 <a href="https://scholar.google.com.hk/?hl=zh-CN" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
 <a href="https://www.linkedin.com/in/qiuru-chen-154b2631a/" target="_blank"><i class="fab fab fa-linkedin fa-lg"></i></a>
@@ -69,13 +69,4 @@ weight: 3
 
 <p style="clear: both;">
 
-<!-- Xiao-Xuan CHEN -->
-
-<div>
-
-<img src="/assets/Xiaoxuan_Chen_2022.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
-<h3 style="margin-bottom:0;"> Xiao-Xuan CHEN </h3>
-<h5 style="margin-top:0; margin-bottom:0;"> 2023-Date: Ph.D at The Hong Kong Polytechnic Uni </h5>
-<h5 style="margin-top:0; margin-bottom:0;"> 2019-2023: B.Sc at Zhejiang Uni </h5>
-
-</div>
+<!-- Test_Student-2 -->
