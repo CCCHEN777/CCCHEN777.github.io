@@ -3,14 +3,12 @@ layout: page
 title: People
 permalink: /people/
 weight: 3
----
 
-<!-- 
+---
 <center><strong><font size="15"> Meet our team! </font></strong></center>
 
-![Team picture](/assets/team2019.png)
+![Team picture](/assets/test_team.jpg)
 <hr>
--->
 
 <!-- A template to either change your current profile on the People page OR to add in a new member. Simply copy and paste the lines of code below OR add in what you need. If you don't need some lines of code, remove them (aka social media links). Do not change the CSS.
 
@@ -38,13 +36,13 @@ weight: 3
 
 <div>
 
-<img src="/assets/Pin_Zhang.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
-<h3 style="margin-bottom:0;"> <a href="/people/pinzhang/"> Pin ZHANG </a></h3>
+<img src="/assets/mimi1.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
+<h3 style="margin-bottom:0;"> <a href="/people/pinzhang/"> CHEN Qiuru </a></h3>
 <h5 style="margin-top:0; margin-bottom:0;"> Principal Investigator </h5>
-<a href="mailto: dr.pin.zhang@gmail.com"><i class="fas fa-envelope-square fa-lg"></i></a>
-<a href="https://scholar.google.com/citations?user=_4-M1mYAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
-<a href="https://www.linkedin.com/in/pin-zhang-086579278/" target="_blank"><i class="fab fab fa-linkedin fa-lg"></i></a>
-<a href="https://github.com/PinZhang3" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
+<a href="mailto: qiuru.chen@polyu.edu.hk"><i class="fas fa-envelope-square fa-lg"></i></a>
+<a href="https://scholar.google.com.hk/?hl=zh-CN" target="_blank"><i class="ai ai-google-scholar-square ai-lg"></i></a>
+<a href="https://www.linkedin.com/in/qiuru-chen-154b2631a/" target="_blank"><i class="fab fab fa-linkedin fa-lg"></i></a>
+<a href="https://github.com/CCCHEN777" target="_blank"><i class="fab fa-github-square fa-lg"></i></a>
 
 </div>
 <p style="clear: both;">
@@ -57,12 +55,12 @@ weight: 3
 
 <p style="clear: both;">
   
-<!-- Geng-Fu HE -->
+<!-- Test_student -->
 
 <div>
 
-<img src="/assets/Gengfu_He_2021.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
-<h3 style="margin-bottom:0;"> Geng-Fu HE </h3>
+<img src="/assets/test_student.jpg" hspace="10" style="width:150px; height:180px; float:left; margin: 10px; margin-right: 1%; margin-bottom: 0.5em;">
+<h3 style="margin-bottom:0;"> Test_student </h3>
 <h5 style="margin-top:0; margin-bottom:0;"> 2022-Date: Ph.D at The Hong Kong Polytechnic Uni </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2017-2020: M.Sc at Sichuan Uni </h5>
 <h5 style="margin-top:0; margin-bottom:0;"> 2013-2017: B.Sc at Sichuan Uni </h5>
