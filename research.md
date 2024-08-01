@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 weight: 2
 ---
-#### Our research is focused on the Cognitive Neuroscience of mental processes. Studies are approached using a broad range of methodological tools – human lesions, structural and functional MRI, and electrophysiology (MEG/EEG). 
+#### My research interests are generally in the fields of hydraulics and  fluid mechanics. My current research mainly focuses on transient wave-based pipe faults detection and numerical modeling of transient pipe flows. 
 
 <!-- This is for Memory -->
 
